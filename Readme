@@ -1,0 +1,11 @@
+LilyPad Arduino USB
+
+This repository contains all of the design files for the LilyPad Arduino USB.
+
+The "Firmware" directory contains a reference copy of the bootloader; the
+"official" maintained version is in the Arduino source project. We'll try to
+keep this updated if anything changes.
+
+As with all SparkFun developments, we consider this to be "beerware"- should
+you reuse it, please buy us a pint (of beer, orange juice, or braehg) at the
+local next time you see one of us.
