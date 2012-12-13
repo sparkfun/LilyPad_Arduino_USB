@@ -5288,7 +5288,7 @@ Basic SMA packaged diode. Good for reverse polarization protection. Common part 
 <text x="20.574" y="120.65" size="1.27" layer="97">32u4 BYPASS</text>
 <text x="45.72" y="120.65" size="1.27" layer="97">MIC5219 BYPASS</text>
 <text x="171.45" y="11.43" size="2.54" layer="94">Mike Hord</text>
-<text x="238.252" y="7.112" size="2.54" layer="94">11</text>
+<text x="238.252" y="7.112" size="2.54" layer="94">12</text>
 <text x="170.18" y="43.18" size="2.54" layer="94">Original Lilypad Design by:</text>
 <text x="170.18" y="39.37" size="2.54" layer="94">L. Buechly and N. Seidle</text>
 <wire x1="55.88" y1="157.48" x2="78.74" y2="157.48" width="0.1524" layer="97" style="shortdash"/>
