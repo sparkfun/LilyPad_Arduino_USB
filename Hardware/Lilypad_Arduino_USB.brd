@@ -562,6 +562,7 @@
 <rectangle x1="2.667" y1="0.381" x2="2.921" y2="0.762" layer="41" rot="R180"/>
 <text x="10.541" y="7.62" size="1.016" layer="21" font="vector" ratio="15" rot="R90">CHG</text>
 <text x="6.731" y="-3.937" size="1.016" layer="21" font="vector" ratio="15" rot="R90">STAT</text>
+<text x="-11.684" y="5.461" size="1.016" layer="21" font="vector" ratio="15" rot="R270">RESET</text>
 </plain>
 <libraries>
 <library name="LilyPad-Wearables">
