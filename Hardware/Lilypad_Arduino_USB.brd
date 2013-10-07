@@ -409,7 +409,7 @@
 <text x="11.68399375" y="-5.334" size="1.27" layer="21" font="vector" ratio="15">ON</text>
 <text x="11.302996875" y="3.937" size="1.27" layer="21" font="vector" ratio="15">CHG</text>
 <text x="-16.001996875" y="-9.397996875" size="1.27" layer="21" font="vector" ratio="15">A5</text>
-<text x="-18.41499375" y="-0.762" size="1.27" layer="21" font="vector" ratio="15">A4</text>
+<text x="-19.17699375" y="-0.508" size="1.27" layer="21" font="vector" ratio="15">A4</text>
 <text x="-16.128996875" y="8.255" size="1.27" layer="21" font="vector" ratio="15">A3</text>
 <text x="-9.778996875" y="14.85899375" size="1.27" layer="21" font="vector" ratio="15">A2</text>
 <text x="7.365996875" y="15.23999375" size="1.27" layer="21" font="vector" ratio="15">11</text>
@@ -560,7 +560,7 @@
 <rectangle x1="-2.921" y1="0.127" x2="-2.794" y2="0.635" layer="41"/>
 <rectangle x1="-2.54" y1="1.27" x2="2.54" y2="6.35" layer="41"/>
 <rectangle x1="2.667" y1="0.381" x2="2.921" y2="0.762" layer="41" rot="R180"/>
-<text x="10.795" y="7.62" size="1.016" layer="21" font="vector" ratio="15" rot="R90">CHG</text>
+<text x="10.541" y="7.62" size="1.016" layer="21" font="vector" ratio="15" rot="R90">CHG</text>
 <text x="6.731" y="-3.937" size="1.016" layer="21" font="vector" ratio="15" rot="R90">STAT</text>
 </plain>
 <libraries>
@@ -3982,6 +3982,63 @@ We've spent an enormous amount of time creating and checking these footprints an
 </package>
 </packages>
 </library>
+<library name="SparkFun-Aesthetics">
+<description>&lt;h3&gt;SparkFun Electronics' preferred foot prints&lt;/h3&gt;
+In this library you'll find non-functional items- supply symbols, logos, notations, frame blocks, etc.&lt;br&gt;&lt;br&gt;
+We've spent an enormous amount of time creating and checking these footprints and parts, but it is the end user's responsibility to ensure correctness and suitablity for a given componet or application. If you enjoy using this library, please buy one of our products at www.sparkfun.com.
+&lt;br&gt;&lt;br&gt;
+&lt;b&gt;Licensing:&lt;/b&gt; CC v3.0 Share-Alike You are welcome to use this library for commercial purposes. For attribution, we ask that when you begin to sell your device using our footprint, you email us with a link to the product being sold. We want bragging rights that we helped (in a very small part) to create your 8th world wonder. We would like the opportunity to feature your device on our homepage.</description>
+<packages>
+<package name="SFE-LOGO-FLAME">
+<polygon width="0.0254" layer="21">
+<vertex x="0.5462" y="1.8974"/>
+<vertex x="0.4979" y="1.905" curve="17.884178"/>
+<vertex x="0.3099" y="1.905" curve="46.327753"/>
+<vertex x="0.0712" y="1.7551" curve="35.91905"/>
+<vertex x="0.0001" y="1.5189"/>
+<vertex x="0.0001" y="0.0025"/>
+<vertex x="0.4877" y="0.5512" curve="-23.528974"/>
+<vertex x="0.6757" y="0.6909" curve="-19.885101"/>
+<vertex x="0.7519" y="0.7112"/>
+<vertex x="0.9805" y="0.7112" curve="31.19409"/>
+<vertex x="1.3717" y="0.8204" curve="24.226678"/>
+<vertex x="1.679" y="1.11" curve="41.579705"/>
+<vertex x="1.8593" y="1.844" curve="25.48189"/>
+<vertex x="1.7527" y="2.1412" curve="24.327175"/>
+<vertex x="1.5495" y="2.347"/>
+<vertex x="1.5495" y="2.2581" curve="-30.728978"/>
+<vertex x="1.5418" y="2.2301" curve="-33.047583"/>
+<vertex x="1.4733" y="2.1666" curve="-11.956766"/>
+<vertex x="1.4529" y="2.159" curve="-49.772638"/>
+<vertex x="1.2878" y="2.1895" curve="-0.938211"/>
+<vertex x="1.1964" y="2.2555" curve="-17.462115"/>
+<vertex x="1.1177" y="2.3343" curve="-18.133005"/>
+<vertex x="1.0669" y="2.4333" curve="-27.405164"/>
+<vertex x="1.0618" y="2.4994" curve="-60.325263"/>
+<vertex x="1.2015" y="2.6695" curve="-18.806378"/>
+<vertex x="1.3056" y="2.6899" curve="-3.38798"/>
+<vertex x="1.3666" y="2.6899"/>
+<vertex x="1.3665" y="2.6899"/>
+<vertex x="1.364" y="2.6924" curve="28.458071"/>
+<vertex x="1.2701" y="2.7483" curve="-13.16107"/>
+<vertex x="1.2345" y="2.7635" curve="11.36204"/>
+<vertex x="1.2116" y="2.7737" curve="17.239689"/>
+<vertex x="1.0338" y="2.8042" curve="33.13693"/>
+<vertex x="0.7849" y="2.7356" curve="15.258219"/>
+<vertex x="0.6376" y="2.6137" curve="72.107848"/>
+<vertex x="0.597" y="2.2682" curve="18.59376"/>
+<vertex x="0.8611" y="1.938" curve="-104.814891"/>
+<vertex x="0.8332" y="1.5799" curve="-28.91879"/>
+<vertex x="0.6528" y="1.5189" curve="-42.347638"/>
+<vertex x="0.4446" y="1.5824" curve="-32.991127"/>
+<vertex x="0.3887" y="1.6612" curve="-37.722834"/>
+<vertex x="0.3887" y="1.7958" curve="-35.953185"/>
+<vertex x="0.4115" y="1.8263" curve="1.480237"/>
+<vertex x="0.4954" y="1.8872" curve="-50.628124"/>
+</polygon>
+</package>
+</packages>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -4286,6 +4343,7 @@ design rules under a new name.</description>
 </element>
 <element name="U$1" library="LilyPad-Wearables" package="LOGO-LPA" value="LOGO-LPLPA" x="0" y="0" rot="MR0"/>
 <element name="U$5" library="SparkFun" package="OSHW-LOGO-M" value="OSHW-LOGOM" x="0" y="8.89" rot="MR0"/>
+<element name="U$6" library="SparkFun-Aesthetics" package="SFE-LOGO-FLAME" value="" x="0.762" y="2.794" rot="MR0"/>
 </elements>
 <signals>
 <signal name="N$2">
