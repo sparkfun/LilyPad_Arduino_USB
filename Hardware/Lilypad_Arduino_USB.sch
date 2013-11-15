@@ -15334,9 +15334,9 @@ Basic schematic elements and footprints for 0603, 1206, and PTH resistors.</desc
 <segment>
 <pinref part="R4" gate="G$1" pin="2"/>
 <wire x1="20.32" y1="66.04" x2="15.24" y2="66.04" width="0.1524" layer="91"/>
-<pinref part="X1" gate="G$1" pin="USBID"/>
-<wire x1="10.16" y1="55.88" x2="15.24" y2="55.88" width="0.1524" layer="91"/>
-<wire x1="15.24" y1="55.88" x2="15.24" y2="66.04" width="0.1524" layer="91"/>
+<wire x1="15.24" y1="53.34" x2="15.24" y2="66.04" width="0.1524" layer="91"/>
+<pinref part="X1" gate="G$1" pin="D+"/>
+<wire x1="10.16" y1="53.34" x2="15.24" y2="53.34" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="D+" class="0">
@@ -15471,12 +15471,6 @@ Basic schematic elements and footprints for 0603, 1206, and PTH resistors.</desc
 <pinref part="LED4" gate="G$1" pin="A"/>
 <pinref part="R8" gate="G$1" pin="1"/>
 <wire x1="220.98" y1="63.5" x2="223.52" y2="63.5" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$22" class="0">
-<segment>
-<pinref part="X1" gate="G$1" pin="D+"/>
-<wire x1="10.16" y1="53.34" x2="12.7" y2="53.34" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
