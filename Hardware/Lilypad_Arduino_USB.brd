@@ -409,7 +409,7 @@
 <text x="11.68399375" y="-5.334" size="1.27" layer="21" font="vector" ratio="15">ON</text>
 <text x="11.302996875" y="3.937" size="1.27" layer="21" font="vector" ratio="15">CHG</text>
 <text x="-16.001996875" y="-9.397996875" size="1.27" layer="21" font="vector" ratio="15">A5</text>
-<text x="-19.17699375" y="-0.508" size="1.27" layer="21" font="vector" ratio="15">A4</text>
+<text x="-18.66899375" y="-0.508" size="1.016" layer="21" font="vector" ratio="15">A4</text>
 <text x="-16.128996875" y="8.255" size="1.27" layer="21" font="vector" ratio="15">A3</text>
 <text x="-9.778996875" y="14.85899375" size="1.27" layer="21" font="vector" ratio="15">A2</text>
 <text x="7.365996875" y="15.23999375" size="1.27" layer="21" font="vector" ratio="15">11</text>
@@ -561,7 +561,7 @@
 <rectangle x1="-2.54" y1="1.27" x2="2.54" y2="6.35" layer="41"/>
 <rectangle x1="2.667" y1="0.381" x2="2.921" y2="0.762" layer="41" rot="R180"/>
 <text x="10.541" y="7.62" size="1.016" layer="21" font="vector" ratio="15" rot="R90">CHG</text>
-<text x="6.731" y="-3.937" size="1.016" layer="21" font="vector" ratio="15" rot="R90">STAT</text>
+<text x="3.302" y="-4.826" size="1.016" layer="21" font="vector" ratio="15">STAT</text>
 <text x="-11.684" y="5.461" size="1.016" layer="21" font="vector" ratio="15" rot="R270">RESET</text>
 </plain>
 <libraries>
