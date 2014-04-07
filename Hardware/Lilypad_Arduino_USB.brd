@@ -4950,8 +4950,8 @@ design rules under a new name.</description>
 <signal name="N$8">
 <contactref element="U2" pad="4"/>
 <contactref element="C1" pad="1"/>
-<wire x1="-8.920096875" y1="-5.4" x2="-8.92009375" y2="-3.4201" width="0.2032" layer="1"/>
-<wire x1="-8.92009375" y1="-3.4201" x2="-8.889996875" y2="-4.151996875" width="0.2032" layer="1"/>
+<wire x1="-8.920096875" y1="-5.4" x2="-8.920096875" y2="-4.182096875" width="0.2032" layer="1"/>
+<wire x1="-8.920096875" y1="-4.182096875" x2="-8.889996875" y2="-4.151996875" width="0.254" layer="1"/>
 </signal>
 <signal name="N$9">
 <contactref element="U3" pad="12"/>
