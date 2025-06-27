@@ -1,7 +1,7 @@
 LilyPad Arduino USB
 ===================
 
-[![LilyPad Arduino USB](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/1/1/9/0/11190-01a_medium.jpg)  
+[![LilyPad Arduino USB](https://cdn.sparkfun.com/assets/parts/6/7/4/0/11190-01a.jpg)  
 *LilyPad Arduino USB (DEV-11990)*](https://www.sparkfun.com/products/11190)
 
 The LilyPad Arduino USB is a sewable Arduino compatible board with a built-in LiPo battery charger. It connects via microUSB cable to your computer, which means that, unlike regular LilyPad boards, it needs no external hardware to be programmed. 
